@@ -11,6 +11,8 @@
 
 Whatssup I'm tec!
 
+ummm ummm I made this because i think its cool!
+
 ## 🛠 Currently learning
 
 - **Languages**: JS / TS, HTML, CSS, Node.js
